@@ -7,3 +7,10 @@ library(Microsoft365R)
 # https://github.com/daattali/timevis?tab=readme-ov-file 
 
 library(timevis)
+## shiny, not that usefull 
+
+# static output
+
+# https://shosaco.github.io/vistime/
+
+library(vistime)
